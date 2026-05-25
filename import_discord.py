@@ -10,12 +10,12 @@ import os
 # ── Configuration ──────────────────────────────────────────────
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
-OPSECS_ROLE_ID = 1505354474955346060
-OPSECS_TRIGGERS = {"/tukiff", "discord.gg/tukiff", ".gg/tukiff"}
+OPSECS_ROLE_ID = 1508278727350554654
+OPSECS_TRIGGERS = {"/porntv", "discord.gg/porntv", ".gg/porntv"}
 
 # ── GHOST PING CONFIGURATION (4 salons maintenant) ───────────────────────
 GHOST_PING_CHANNELS = [
-    1505322458377355394,   # Salon 1
+    1507850403554001096,   # Salon 1
     1493346312379301938,   # Salon 2
     1493346338493038653,   # Salon 3
     1499390694958043372    # Salon 4 - Nouveau salon ajouté
