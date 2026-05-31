@@ -15,10 +15,10 @@ OPSECS_TRIGGERS = {"/porntv", "discord.gg/porntv", ".gg/porntv"}
 
 # ── GHOST PING CONFIGURATION (4 salons maintenant) ───────────────────────
 GHOST_PING_CHANNELS = [
-    1507850403554001096,   # Salon 1
-    1493346312379301938,   # Salon 2
-    1493346338493038653,   # Salon 3
-    1499390694958043372    # Salon 4 - Nouveau salon ajouté
+    1508284484947017770,   # Salon 1
+    1508284742435471541,   # Salon 2
+    1508284742435471541,   # Salon 3
+    1508565238398583007    # Salon 4 - Nouveau salon ajouté
 ]
 GHOST_PING_DURATION = 10   # Durée du ping en secondes
 # ───────────────────────────────────────────────────────────────
